@@ -7,7 +7,7 @@ cpu_PC_test.py and gpu_PC_test.py is a demo that uses CPU and GPU to calculate p
 
 cpu_PC_test.py和gpu_PC_test.py分别是使用CPU和GPU计算相位一致性的demo。
 
-测试计算100张影像相位一致性的时间：
+测试计算100张512*512像素的影像相位一致性的时间：
 
 CPU运行时间为：55.9364294
 
